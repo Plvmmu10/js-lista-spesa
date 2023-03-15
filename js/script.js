@@ -7,7 +7,6 @@ const listaSpesa = [
     'lattuga'
 ];
 
-let text = "";
 listItem= 0;
 
 while(listItem < listaSpesa.length){
